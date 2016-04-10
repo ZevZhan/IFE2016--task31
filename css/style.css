@@ -1,0 +1,41 @@
+.box{
+	width: 400px;
+	height: 100px;
+	margin:80px auto;
+	text-align: center;
+	font-family: '微软雅黑';
+	position: relative;
+}
+
+#nonSchoolBtn{
+	margin-left: 20px;
+}
+
+#workPart{
+	display: none;
+	position: absolute;
+	left: 50px;
+	top: 60px;
+}
+
+#workPart input{
+	width: 180px;
+	height: 36px;
+	margin-left: 10px;
+}
+
+#schoolPart{
+	margin-top: 40px;
+	margin-left: -16px;
+}
+
+ #schoolPart select{
+	margin-left: 26px;
+	width: 120px;
+	height: 36px;
+} 
+
+#cityItm{
+	width: 60px !important;
+	margin-left: 5px !important;
+}
